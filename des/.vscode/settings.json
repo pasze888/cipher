@@ -1,0 +1,3 @@
+{
+    "clangd.path": "D:\\apps\\vs\\ide\\VC\\Tools\\Llvm\\bin\\clangd.exe", // clangd 路径
+}

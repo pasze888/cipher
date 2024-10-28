@@ -1,0 +1,10 @@
+# .gitignore 文件内容
+
+# 忽略所有子目录中的 .xmake 目录
+/**/.xmake/
+
+# 忽略所有子目录中的 build 目录
+/**/build/
+
+# 忽略 .vscode 目录下的 compile_commands.json 文件
+/**/.vscode/compile_commands.json
